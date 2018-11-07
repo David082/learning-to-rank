@@ -77,3 +77,6 @@ class TextCNN(object):
             # 准确率
             correct_pred = tf.equal(x=tf.argmax(input=self.input_y, axis=1), y=self.y_pred_cls)
             self.acc = tf.reduce_mean(input_tensor=tf.cast(x=correct_pred, dtype=tf.float32))
+
+if __name__ == '__main__':
+    config = TCNNConfig()
