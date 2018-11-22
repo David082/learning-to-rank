@@ -19,3 +19,5 @@ with tf.Session() as sess:
 	print(sess.run(b))
 	print(c)
 """
+# ------ tensorflow-generative-model-collections
+# https://github.com/hwalsuklee/tensorflow-generative-model-collections

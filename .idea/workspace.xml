@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c1c8e2-df05-4736-9c35-1fa600beaefb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pyxgboost/LoadModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/generative/vae/VAE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/generative/vae/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/spark/util/XgbLR.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/learning-to-rank.iml" afterPath="$PROJECT_DIR$/.idea/learning-to-rank.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" afterPath="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" />
     </list>
     <ignored path="learning-to-rank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,88 +32,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="load_keras_2log.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/load_keras_2log.py">
+      <file leaf-file-name="gan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/gan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1225">
-              <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
-              <folding>
-                <element signature="e#234#269#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="svm_tutorial.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/ml/svm/svm_tutorial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+            <state relative-caret-position="3825">
+              <caret line="165" column="41" selection-start-line="165" selection-start-column="33" selection-end-line="165" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoadModel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pyxgboost/LoadModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2950">
-              <caret line="118" column="21" selection-start-line="118" selection-start-column="21" selection-end-line="118" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-              <folding>
-                <element signature="e#166#175#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-              <folding>
-                <element signature="e#166#175#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/seq2seq/model.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding>
-                <element signature="e#233#245#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py">
+      <file leaf-file-name="VAE.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/vae/VAE.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -117,11 +52,66 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/vae/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+              <folding>
+                <element signature="e#95#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lenet_tf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4375">
+              <caret line="175" column="56" selection-start-line="175" selection-start-column="56" selection-end-line="175" selection-end-column="56" />
+              <folding>
+                <element signature="e#310#368#0" expanded="true" />
+                <element signature="e#7986#8213#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alexnet_tf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resnet_keras.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alexnet_torch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="torch_load_processing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/torch_load_processing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding>
                 <element signature="e#204#251#0" expanded="true" />
               </folding>
@@ -132,9 +122,11 @@
       <file leaf-file-name="tf_rank_example.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/python/dl/dlexample/tf_rank_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5825">
-              <caret line="238" column="47" selection-start-line="238" selection-start-column="47" selection-end-line="238" selection-end-column="47" />
-              <folding />
+            <state relative-caret-position="5050">
+              <caret line="207" column="99" selection-start-line="207" selection-start-column="99" selection-end-line="207" selection-end-column="99" />
+              <folding>
+                <element signature="e#93#112#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,8 +136,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -175,7 +167,6 @@
         <option value="$PROJECT_DIR$/src/main/python/dl/util/load_keras_2log.py" />
         <option value="$PROJECT_DIR$/src/main/scala/spark/util/ParamArgs.scala" />
         <option value="$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" />
         <option value="$PROJECT_DIR$/src/main/python/dl/rnn/char-rnn-tensorflow/model.py" />
         <option value="$PROJECT_DIR$/src/main/python/dl/rnn/text-classification-cnn-rnn/cnn_model.py" />
         <option value="$PROJECT_DIR$/src/main/python/dl/rnn/seq2seq/model.py" />
@@ -190,6 +181,17 @@
         <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pyxgboost/LoadModel.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/spark/util/XgbLR.scala" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/generative/vae/__init__.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/__init.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/generative/vae/VAE.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/generative/vae/utils.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/lenet/lenet_tf.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/lenet/alexnet_tf.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py" />
       </list>
     </option>
   </component>
@@ -234,109 +236,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyxgboost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,12 +253,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\learning-to-rank\resources" />
-      <recent name="E:\learning-to-rank\src\main\python\dl" />
-      <recent name="E:\learning-to-rank\src\main\python\ml\pmml" />
-      <recent name="E:\learning-to-rank\src\main\java\pmml" />
-      <recent name="E:\learning-to-rank\src\main\java\predictor" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learning-to-rank\src\main\python\dl\generative" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="hotelrank" />
@@ -362,11 +263,15 @@
       <recent name="spark.preprocessing" />
       <recent name="spark.metrics" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\learning-to-rank\src\main\python\dl\generative" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\learning-to-rank\resources" />
+      <recent name="E:\learning-to-rank\src\main\python\dl" />
+      <recent name="E:\learning-to-rank\src\main\python\ml\pmml" />
+      <recent name="E:\learning-to-rank\src\main\java\pmml" />
+      <recent name="E:\learning-to-rank\src\main\java\predictor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoadModel">
+  <component name="RunManager" selected="Python.VAE">
     <configuration default="false" name="gan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -419,6 +324,23 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="learning-to-rank" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="VAE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/python/dl/generative/vae" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-rank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/dl/generative/vae/VAE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -866,16 +788,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.gan" />
       <item index="1" class="java.lang.String" itemvalue="Python.train" />
       <item index="2" class="java.lang.String" itemvalue="Application.LoadModel" />
+      <item index="3" class="java.lang.String" itemvalue="Python.VAE" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.LoadModel" />
-        <item index="1" class="java.lang.String" itemvalue="Python.train" />
-        <item index="2" class="java.lang.String" itemvalue="Python.gan" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.VAE" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LoadModel" />
+        <item index="2" class="java.lang.String" itemvalue="Python.train" />
+        <item index="3" class="java.lang.String" itemvalue="Python.gan" />
       </list>
     </recent_temporary>
   </component>
@@ -910,13 +834,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46920493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40761477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5319149" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781956" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20171149" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22432762" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -928,6 +851,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -941,12 +865,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46920493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975364" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40761477" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781956" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20171149" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22432762" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -996,151 +920,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/preprocessing/FeatureImportance.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/predictor/XGBPredict.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7375">
-          <caret line="295" column="15" selection-start-line="295" selection-start-column="15" selection-end-line="295" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/metrics/RankMetrics.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="84" column="7" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/preprocessing/FeatureImportance.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/predictor/DataBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/predictor/XGBPredict.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pmml/DataBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pmml/ModelInvoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pmml/PMMLPrediction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pmml/PMMLPredictor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/ml/pmml/pipeline2PMML.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="889">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/preprocessing/FeatureImportance.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/demo/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/ml/wilson_rating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/preprocessing/FeatureTransform.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/hotelrank/FeatureList.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="44" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/hotelrank/XGBModel.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/metrics/RankMetrics.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="40" column="76" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/spark/util/Row2Rows.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/save_gan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1162,13 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2412">
           <caret line="943" column="6" selection-start-line="943" selection-start-column="6" selection-end-line="943" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/keras/engine/training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5875">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1200,13 +976,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/tf_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/parameter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -1218,13 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2050">
           <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/gan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1249,22 +1011,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1475">
-          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/__init__.py" />
     <entry file="file://$PROJECT_DIR$/src/main/python/dl/__init__.py" />
     <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-          <folding>
-            <element signature="e#166#175#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1272,9 +1024,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#166#175#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/seq2seq/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/load_keras_2log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/cnxh5_xgb_7version_xgb.model" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="118" column="21" selection-start-line="118" selection-start-column="21" selection-end-line="118" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/predictor/DataBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/util/XgbLR.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="86" column="53" selection-start-line="86" selection-start-column="53" selection-end-line="86" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/predictor/XGBPredict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pyxgboost/LoadModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/ml/svm/svm_tutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/save_gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/gan/images/mnist_10000.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1750">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1285,27 +1124,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/torch_load_processing.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/tf_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#204#251#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="575">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/seq2seq/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <element signature="e#233#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/vae/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/__init.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/vae/VAE.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -1313,53 +1141,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/dlexample/tf_rank_example.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/vae/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5825">
-          <caret line="238" column="47" selection-start-line="238" selection-start-column="47" selection-end-line="238" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/load_keras_2log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1225">
-          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+        <state relative-caret-position="1100">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
           <folding>
-            <element signature="e#234#269#0" expanded="true" />
+            <element signature="e#95#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/ml/svm/svm_tutorial.py">
+    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/layers/convolutional.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        <state relative-caret-position="-1438">
+          <caret line="543" column="12" selection-start-line="543" selection-start-column="12" selection-end-line="543" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1063">
+          <caret line="929" column="4" selection-start-line="929" selection-start-column="4" selection-end-line="929" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/cnxh5_xgb_7version_xgb.model">
+    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2950">
-          <caret line="118" column="21" selection-start-line="118" selection-start-column="21" selection-end-line="118" selection-end-column="21" />
+        <state relative-caret-position="-163">
+          <caret line="2115" column="4" selection-start-line="2115" selection-start-column="4" selection-end-line="2115" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pyxgboost/LoadModel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/torch_load_processing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="350">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#204#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="1603" column="6" selection-start-line="1603" selection-start-column="6" selection-end-line="1603" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="5504" column="72" selection-start-line="5504" selection-start-column="5" selection-end-line="5504" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/dlexample/tf_rank_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5050">
+          <caret line="207" column="99" selection-start-line="207" selection-start-column="99" selection-end-line="207" selection-end-column="99" />
+          <folding>
+            <element signature="e#93#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/gan/images/mnist_0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="165" column="41" selection-start-line="165" selection-start-column="33" selection-end-line="165" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/numpy/lib/arraypad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="992" column="42" selection-start-line="992" selection-start-column="42" selection-end-line="992" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4375">
+          <caret line="175" column="56" selection-start-line="175" selection-start-column="56" selection-end-line="175" selection-end-column="56" />
+          <folding>
+            <element signature="e#310#368#0" expanded="true" />
+            <element signature="e#7986#8213#0" expanded="false" />
           </folding>
         </state>
       </provider>
