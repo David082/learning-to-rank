@@ -21,3 +21,7 @@ with tf.Session() as sess:
 """
 # ------ tensorflow-generative-model-collections
 # https://github.com/hwalsuklee/tensorflow-generative-model-collections
+
+# ------ tf.contrib.layers.variance_scaling_initializer
+# 通过使用这种初始化方法，我们能够保证输入变量的变化尺度不变，从而避免变化尺度在最后一层网络中爆炸或者弥散。
+# https://blog.csdn.net/u010185894/article/details/71104387
