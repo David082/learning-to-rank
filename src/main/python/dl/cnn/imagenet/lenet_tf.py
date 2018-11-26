@@ -214,7 +214,7 @@ def plot_image(x):
 
 
 if __name__ == '__main__':
-    pb_file_path = "lenet.pb"
+    pb_file_path = "models/lenet.pb"
     lenet = LeNet(pb_file_path=pb_file_path)
     X_train, y_train, X_validation, y_validation, X_test, y_test = lenet.load_data()
 
