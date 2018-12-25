@@ -44,10 +44,11 @@ if __name__ == '__main__':
     print('X_train shape:', X_train.shape)
     print('X_test shape:', X_test.shape)
 
-    rnn_e = RNNExample()
+    rnn = RNNExample()
     # build model
-    model = rnn_e.build_network()
+    model = rnn.build_network()
 
     print("Train...")
-    model.fit(X_train, y_train, batch_size=rnn_e.batch_size, epochs=1,
+    model.fit(X_train, y_train, batch_size=rnn.batch_size, epochs=1,
               validation_data=(X_test, y_test))
+

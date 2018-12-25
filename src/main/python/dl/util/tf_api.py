@@ -25,3 +25,11 @@ with tf.Session() as sess:
 # ------ tf.contrib.layers.variance_scaling_initializer
 # 通过使用这种初始化方法，我们能够保证输入变量的变化尺度不变，从而避免变化尺度在最后一层网络中爆炸或者弥散。
 # https://blog.csdn.net/u010185894/article/details/71104387
+
+# ------ batch_normalization / 退化学习率
+# https://www.cnblogs.com/zyly/p/8996070.html
+"""
+# 加入退化学习率 初始值为learning_rate,让其每1000步，衰减0.9  学习率 = learning_rate*0.9^(global_step/1000)
+global_step = tf.Variable(0,trainable=False)
+decaylearning_rate = tf.train.exponential_decay(learning_rate,global_step,1000,0.9)
+"""

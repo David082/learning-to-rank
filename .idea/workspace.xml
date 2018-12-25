@@ -2,14 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c1c8e2-df05-4736-9c35-1fa600beaefb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/cocoapi/pycoco_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/ssd/singleshot_multibox_detector.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/yolo2/keras_yolo2/yolo2_step_by_step.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/util/gpu_api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/data_date.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/carvana_image_masking_challenge/unet_models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/classset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/predict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/resnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/train.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/train.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/unet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/alexnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/caffe_classes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/datagenerator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/finetune.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/validate_alexnet_on_imagenet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/wide_resnet/wide_resnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_torch/resnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_torch/resnet_torch_cifar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/vgg_tf/vgg13_tf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/bidirectional_rnn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/bilstm_sequence_labeling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/imdb_bi_rnn_attention.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/util/keras_h5_to_tf_pb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/bayes_baseline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/first_stage_bayes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/model_blending.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/plot_cluster.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/face/face_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/pytorch/basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/pytorch/dot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/pytorch/graph_visualization.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/pytorch/torch_tensorboard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/tf/tf_bn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/xgb/tree_plot.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/resnet_keras.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/resnet_keras.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lenet.pb" afterPath="$PROJECT_DIR$/models/lenet.pb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/util/gpu_api.py" afterPath="$PROJECT_DIR$/src/main/python/dl/util/gpu_api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" afterPath="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/alexnet_tf.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/python/ml/wilson_rating.py" afterPath="$PROJECT_DIR$/src/main/python/ml/wilson/wilson_rating.py" />
     </list>
     <ignored path="learning-to-rank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,75 +66,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="alexnet_tf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf.py">
+      <file leaf-file-name="torch_tensorboard.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/torch_tensorboard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resnet_keras.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/resnet_keras.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1325">
-              <caret line="330" column="47" selection-start-line="330" selection-start-column="47" selection-end-line="330" selection-end-column="47" />
+            <state relative-caret-position="2550">
+              <caret line="105" column="51" selection-start-line="105" selection-start-column="51" selection-end-line="105" selection-end-column="51" />
               <folding>
-                <element signature="e#586#618#0" expanded="true" />
-                <element signature="e#1229#2526#0" expanded="false" />
-                <element signature="e#2576#2962#0" expanded="false" />
-                <element signature="e#3067#4438#0" expanded="false" />
-                <element signature="e#4558#6300#0" expanded="false" />
-                <element signature="e#6406#7800#0" expanded="false" />
-                <element signature="e#7829#8033#0" expanded="false" />
-                <element signature="e#12756#12959#1" expanded="false" />
+                <element signature="e#425#437#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="surgery_robot_detection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/surgery_robot_detection.py">
+      <file leaf-file-name="classset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/classset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo_human_pose.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/demo_human_pose.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mask_rcnn_demo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2675">
-              <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+            <state relative-caret-position="2325">
+              <caret line="99" column="28" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
               <folding>
-                <element signature="e#439#448#0" expanded="true" />
+                <element signature="e#95#104#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resnet.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_tf/resnet.py">
+      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="700">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unet.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/unet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
               <folding>
-                <element signature="e#138#183#0" expanded="true" />
+                <element signature="e#95#107#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unet_models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/carvana_image_masking_challenge/unet_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding>
+                <element signature="e#167#187#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vgg.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/vgg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2325">
+              <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activation.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/activation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10475">
+              <caret line="424" column="57" selection-start-line="424" selection-start-column="17" selection-end-line="424" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resnet50.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Anaconda3/Lib/site-packages/keras/applications/resnet50.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5700">
+              <caret line="251" column="18" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,57 +185,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/hotelrank/FeatureList.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/spark/preprocessing/FeatureTransform.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/hotelrank/XGBModel.scala" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/util/load_keras_2log.py" />
-        <option value="$PROJECT_DIR$/src/main/scala/spark/util/ParamArgs.scala" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/char-rnn-tensorflow/model.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/text-classification-cnn-rnn/cnn_model.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/seq2seq/model.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/torch_load_processing.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/model.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/__init__.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/utils.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/train.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/util/torch_api.py" />
-        <option value="$PROJECT_DIR$/src/main/python/ml/svm/svm_tutorial.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/dlexample/tf_rank_example.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pyxgboost/LoadModel.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/spark/util/XgbLR.scala" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/generative/vae/__init__.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/__init.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/generative/vae/VAE.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/generative/vae/utils.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/lenet/lenet_tf.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/lenet/alexnet_tf.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_tf.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_tf/utils.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/preprocessing_dataset.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_tf/resnet.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/util/keras_api.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/surgery_robot_detection_segmentation.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/surgery_robot_detection.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/demo_human_pose.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_demo.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/config.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/utils.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/model.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/coco.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/visualize.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/cocoapi/pycoco_demo.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/util/gpu_api.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/ssd/singleshot_multibox_detector.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/yolo2/keras_yolo2/yolo2_step_by_step.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/resnet_keras.py" />
         <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/datagenerator.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/caffe_classes.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/finetune.py" />
+        <option value="$PROJECT_DIR$/src/main/python/util/pytorch/basic.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/alexnet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/validate_alexnet_on_imagenet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/util/tf/tf_bn.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/model.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/vgg_tf/vgg13_tf.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/wide_resnet/wide_resnet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_torch/resnet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_torch/resnet_torch_cifar.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/util/keras_h5_to_tf_pb.py" />
+        <option value="$PROJECT_DIR$/src/main/python/util/pytorch/dot.py" />
+        <option value="$PROJECT_DIR$/src/main/python/util/pytorch/graph_visualization.py" />
+        <option value="$PROJECT_DIR$/src/main/python/util/face/face_info.py" />
+        <option value="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/plot_cluster.py" />
+        <option value="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/model_blending.py" />
+        <option value="$PROJECT_DIR$/src/main/java/predictor/XGBPredict.java" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb-rnn-attention/config.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb-rnn-attention/utils.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb-rnn-attention/imdb_bi_rnn_attention.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/utils.py" />
+        <option value="$PROJECT_DIR$/src/main/python/main.py" />
+        <option value="$PROJECT_DIR$/src/main/python/ml/main.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/imdb_bi_rnn_attention.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/bidirectional_rnn.py" />
+        <option value="$PROJECT_DIR$/src/main/scala/spark/util/Row2Rows.scala" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/bilstm_sequence_labeling.py" />
+        <option value="$PROJECT_DIR$/data/test.txt" />
+        <option value="$PROJECT_DIR$/data/train.txt" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py" />
+        <option value="$PROJECT_DIR$/src/main/python/util/xgb/tree_plot.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/resnet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/train.py" />
+        <option value="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/first_stage_bayes.py" />
+        <option value="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/bayes_baseline.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/util/gpu_api.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/utils.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/predict.py" />
+        <option value="$PROJECT_DIR$/src/main/python/util/pytorch/torch_tensorboard.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/unet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/classset.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/unet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/train.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/carvana_image_masking_challenge/unet_models.py" />
       </list>
     </option>
   </component>
@@ -219,8 +280,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -239,15 +298,161 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-to-rank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_image_super_resolution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -255,10 +460,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\learning-to-rank" />
-      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\object_detection\mask_rcnn\mask_rcnn_webcam" />
-      <recent name="E:\learning-to-rank\resources" />
       <recent name="E:\learning-to-rank\src\main\python\dl" />
-      <recent name="E:\learning-to-rank\src\main\python\ml\pmml" />
+      <recent name="E:\learning-to-rank\data" />
+      <recent name="E:\learning-to-rank\src\main\python\ml\dc_car_destination" />
+      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\hotel_image_classification" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="hotelrank" />
@@ -268,48 +473,14 @@
       <recent name="spark.metrics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learning-to-rank\src\main\python\ml\wilson" />
+      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\imagenet\alexnet_tf" />
       <recent name="E:\learning-to-rank\models" />
       <recent name="E:\learning-to-rank\src\main\python\dl\cnn\object_detection\mask_rcnn\mask_rcnn_webcam" />
       <recent name="E:\learning-to-rank\src\main\python\dl\cnn\imagenet\resnet_keras" />
-      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\imagenet\resnet_tf" />
-      <recent name="E:\learning-to-rank\src\main\python\dl\generative" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.resnet">
-    <configuration default="false" name="gan" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/python/dl/gan" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learning-to-rank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/dl/gan/gan.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learning-to-rank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/train.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.bayes_baseline">
     <configuration default="false" name="LoadModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -360,6 +531,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learning-to-rank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_tf/resnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="face_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/python/util/face" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-rank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/util/face/face_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="bayes_baseline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/python/ml/dc_car_destination" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-to-rank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/bayes_baseline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -810,19 +1015,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.gan" />
-      <item index="1" class="java.lang.String" itemvalue="Python.train" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LoadModel" />
-      <item index="3" class="java.lang.String" itemvalue="Python.VAE" />
-      <item index="4" class="java.lang.String" itemvalue="Python.resnet" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LoadModel" />
+      <item index="1" class="java.lang.String" itemvalue="Python.VAE" />
+      <item index="2" class="java.lang.String" itemvalue="Python.resnet" />
+      <item index="3" class="java.lang.String" itemvalue="Python.face_info" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bayes_baseline" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.resnet" />
-        <item index="1" class="java.lang.String" itemvalue="Python.VAE" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LoadModel" />
-        <item index="3" class="java.lang.String" itemvalue="Python.train" />
-        <item index="4" class="java.lang.String" itemvalue="Python.gan" />
+        <item index="0" class="java.lang.String" itemvalue="Python.bayes_baseline" />
+        <item index="1" class="java.lang.String" itemvalue="Python.face_info" />
+        <item index="2" class="java.lang.String" itemvalue="Python.resnet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.VAE" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LoadModel" />
       </list>
     </recent_temporary>
   </component>
@@ -847,22 +1052,31 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.49755502" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.502445" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4688264" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47066015" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40761477" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781956" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3493841" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20599023" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21088019" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -878,22 +1092,22 @@
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.49755502" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.502445" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4688264" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40761477" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781956" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47066015" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3493841" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20599023" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21116506" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -934,7 +1148,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -943,359 +1157,347 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/util/Row2Rows.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="700">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/auto_encoders/model.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="62" column="15" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="15" />
+        <state relative-caret-position="500">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/save_gan.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/bidirectional_rnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="-600">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/gan/images/mnist_10000.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/vae/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/__init.py" />
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/vae/VAE.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/bilstm_sequence_labeling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="3575">
+          <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/generative/vae/utils.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+        <state relative-caret-position="1275">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/layers/convolutional.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/imdb_bi_rnn_attention.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1438">
-          <caret line="543" column="12" selection-start-line="543" selection-start-column="12" selection-end-line="543" selection-end-column="12" />
+        <state relative-caret-position="1525">
+          <caret line="310" column="4" selection-start-line="310" selection-start-column="4" selection-end-line="310" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1063">
-          <caret line="929" column="4" selection-start-line="929" selection-start-column="4" selection-end-line="929" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="2115" column="4" selection-start-line="2115" selection-start-column="4" selection-end-line="2115" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/torch_load_processing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/client/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="1603" column="6" selection-start-line="1603" selection-start-column="6" selection-end-line="1603" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/framework/ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="5504" column="72" selection-start-line="5504" selection-start-column="5" selection-end-line="5504" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/dlexample/tf_rank_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5050">
-          <caret line="207" column="99" selection-start-line="207" selection-start-column="99" selection-end-line="207" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/gan/images/mnist_0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/gan.py">
+    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/contrib/slim/python/slim/nets/resnet_v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="165" column="41" selection-start-line="165" selection-start-column="33" selection-end-line="165" selection-end-column="41" />
+          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/numpy/lib/arraypad.py">
+    <entry file="file://$PROJECT_DIR$/data/train.txt" />
+    <entry file="file://$PROJECT_DIR$/data/test.txt" />
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/conv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="992" column="42" selection-start-line="992" selection-start-column="42" selection-end-line="992" selection-end-column="42" />
+        <state relative-caret-position="-1437">
+          <caret line="288" column="8" selection-start-line="288" selection-start-column="8" selection-end-line="288" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_tf/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/dependency-reduced-pom.xml" />
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/tools/api/generator/api/contrib/__init__.py">
+    <entry file="file://$PROJECT_DIR$/test.model" />
+    <entry file="file://$PROJECT_DIR$/src/main/python/util/xgb/tree_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-936">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/contrib/slim/python/slim/nets/resnet_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6125">
+          <caret line="257" column="79" selection-start-line="257" selection-start-column="79" selection-end-line="257" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/transforms/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2713">
+          <caret line="433" column="7" selection-start-line="433" selection-start-column="7" selection-end-line="433" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/result3.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/python/ops/init_ops.py">
+    <entry file="file://$PROJECT_DIR$/data/result1.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1785">
-          <caret line="404" column="6" selection-start-line="404" selection-start-column="6" selection-end-line="404" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IdeaIC2016.2/system/python_stubs/-791851423/builtins.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/ml/dc_car_destination/bayes_baseline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="2966" column="8" selection-start-line="2966" selection-start-column="8" selection-end-line="2966" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="-800">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/ml/dc_car_destination/first_stage_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="1347" column="0" selection-start-line="1347" selection-start-column="0" selection-end-line="1347" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/densenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/dot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/graph_visualization.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_tf/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/keras/layers/convolutional.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="395" column="15" selection-start-line="395" selection-start-column="8" selection-end-line="395" selection-end-column="15" />
-          <folding />
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/torch_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/tf_api.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/resnet.py" />
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/serialization/read_lua_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="514">
+          <caret line="600" column="4" selection-start-line="600" selection-start-column="4" selection-end-line="600" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/keras_api.py">
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="240" column="53" selection-start-line="240" selection-start-column="53" selection-end-line="240" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1263">
+          <caret line="399" column="8" selection-start-line="399" selection-start-column="8" selection-end-line="399" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/data/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/scipy/sparse/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="351" column="8" selection-start-line="351" selection-start-column="8" selection-end-line="351" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3425">
+          <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="199" column="74" selection-start-line="199" selection-start-column="74" selection-end-line="199" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/torch_tensorboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="105" column="51" selection-start-line="105" selection-start-column="51" selection-end-line="105" selection-end-column="51" />
+          <folding>
+            <element signature="e#425#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/unet.py" />
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/activation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10475">
+          <caret line="424" column="57" selection-start-line="424" selection-start-column="17" selection-end-line="424" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/keras/applications/resnet50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5700">
+          <caret line="251" column="18" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/classset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="99" column="28" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
+          <folding>
+            <element signature="e#95#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/autograd/variable.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/keras_preprocessing/image.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1962">
-          <caret line="917" column="8" selection-start-line="917" selection-start-column="8" selection-end-line="917" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/visualize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="168" column="0" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/coco.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/12283150_12d37e6389_z.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/cocoapi/pycoco_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/keras/legacy/layers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="398" column="4" selection-start-line="398" selection-start-column="4" selection-end-line="398" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/keras/engine/training.py">
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/pooling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="565" column="6" selection-start-line="565" selection-start-column="6" selection-end-line="565" selection-end-column="6" />
+        <state relative-caret-position="-400">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/model_zoo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2511">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/preprocessing_dataset.py">
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/functional.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1419">
+        <state relative-caret-position="350">
+          <caret line="928" column="4" selection-start-line="928" selection-start-column="4" selection-end-line="928" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/carvana_image_masking_challenge/unet_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/keras/callbacks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-602">
-          <caret line="344" column="15" selection-start-line="344" selection-start-column="8" selection-end-line="344" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/yolo2/keras_yolo2/yolo2_step_by_step.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/ssd/singleshot_multibox_detector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="e#167#187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/gpu_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        <state relative-caret-position="314">
+          <caret line="106" column="43" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/surgery_robot_detection.py">
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/unet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/demo_human_pose.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_tf/resnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="250">
+          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
           <folding>
-            <element signature="e#138#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2675">
-          <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding>
-            <element signature="e#439#448#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-          <folding>
-            <element signature="e#7986#8213#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/resnet_keras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1325">
-          <caret line="330" column="47" selection-start-line="330" selection-start-column="47" selection-end-line="330" selection-end-column="47" />
-          <folding>
-            <element signature="e#586#618#0" expanded="true" />
-            <element signature="e#1229#2526#0" expanded="false" />
-            <element signature="e#2576#2962#0" expanded="false" />
-            <element signature="e#3067#4438#0" expanded="false" />
-            <element signature="e#4558#6300#0" expanded="false" />
-            <element signature="e#6406#7800#0" expanded="false" />
-            <element signature="e#7829#8033#0" expanded="false" />
-            <element signature="e#12756#12959#1" expanded="false" />
+            <element signature="e#95#107#0" expanded="true" />
           </folding>
         </state>
       </provider>
