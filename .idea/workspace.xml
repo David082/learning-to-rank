@@ -2,50 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c1c8e2-df05-4736-9c35-1fa600beaefb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/data_date.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/carvana_image_masking_challenge/unet_models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/classset.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/predict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/resnet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/train.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/train.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/unet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/alexnet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/caffe_classes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/datagenerator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/finetune.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/validate_alexnet_on_imagenet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/wide_resnet/wide_resnet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_torch/resnet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_torch/resnet_torch_cifar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/vgg_tf/vgg13_tf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/bidirectional_rnn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/bilstm_sequence_labeling.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/imdb_bi_rnn_attention.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/util/keras_h5_to_tf_pb.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/bayes_baseline.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/first_stage_bayes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/model_blending.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/plot_cluster.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/face/face_info.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/pytorch/basic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/pytorch/dot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/pytorch/graph_visualization.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/pytorch/torch_tensorboard.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/tf/tf_bn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/util/xgb/tree_plot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/Update.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/MESAdvClc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/densenet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/changeIndex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/prepare.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/random_erasing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/train_baseline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lesson1/note.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lesson1/prepare.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/python/dl/gan/torch_gan/self_attention_gan_tutorial.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imdb_word_index.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py" afterPath="$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/util/gpu_api.py" afterPath="$PROJECT_DIR$/src/main/python/dl/util/gpu_api.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" afterPath="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf.py" afterPath="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/alexnet_tf.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/python/ml/wilson_rating.py" afterPath="$PROJECT_DIR$/src/main/python/ml/wilson/wilson_rating.py" />
     </list>
     <ignored path="learning-to-rank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,100 +36,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="torch_tensorboard.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/torch_tensorboard.py">
+      <file leaf-file-name="train_baseline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/train_baseline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2550">
-              <caret line="105" column="51" selection-start-line="105" selection-start-column="51" selection-end-line="105" selection-end-column="51" />
+            <state relative-caret-position="2900">
+              <caret line="116" column="26" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lenet_tf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="939">
+              <caret line="216" column="36" selection-start-line="216" selection-start-column="36" selection-end-line="216" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MESAdvClc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/MESAdvClc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Update.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/Update.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="100">
+                <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2650">
+              <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
               <folding>
-                <element signature="e#425#437#0" expanded="true" />
+                <element signature="e#99#108#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="classset.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/classset.py">
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2325">
-              <caret line="99" column="28" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
+            <state relative-caret-position="5000">
+              <caret line="207" column="4" selection-start-line="207" selection-start-column="4" selection-end-line="207" selection-end-column="4" />
               <folding>
-                <element signature="e#95#104#0" expanded="true" />
+                <element signature="e#193#204#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py">
+      <file leaf-file-name="resizeImage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/resizeImage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="34" column="31" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="31" />
+            <state relative-caret-position="475">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unet.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/unet.py">
+      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+            <state relative-caret-position="425">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ops.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
-                <element signature="e#95#107#0" expanded="true" />
+                <element signature="e#99#110#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unet_models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/carvana_image_masking_challenge/unet_models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-              <folding>
-                <element signature="e#167#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vgg.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/vgg.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2325">
-              <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activation.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/activation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10475">
-              <caret line="424" column="57" selection-start-line="424" selection-start-column="17" selection-end-line="424" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resnet50.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/Anaconda3/Lib/site-packages/keras/applications/resnet50.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5700">
-              <caret line="251" column="18" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -185,32 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/datagenerator.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/caffe_classes.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/mask_rcnn_demo.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/finetune.py" />
-        <option value="$PROJECT_DIR$/src/main/python/util/pytorch/basic.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/alexnet.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_tf/validate_alexnet_on_imagenet.py" />
-        <option value="$PROJECT_DIR$/src/main/python/util/tf/tf_bn.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/object_detection/mask_rcnn/mask_rcnn_webcam/model.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/util/tf_api.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/alexnet_torch.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/vgg_tf/vgg13_tf.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_keras/wide_resnet/wide_resnet.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_torch/resnet.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/resnet_torch/resnet_torch_cifar.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/util/keras_h5_to_tf_pb.py" />
-        <option value="$PROJECT_DIR$/src/main/python/util/pytorch/dot.py" />
-        <option value="$PROJECT_DIR$/src/main/python/util/pytorch/graph_visualization.py" />
-        <option value="$PROJECT_DIR$/src/main/python/util/face/face_info.py" />
-        <option value="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/plot_cluster.py" />
-        <option value="$PROJECT_DIR$/src/main/python/ml/dc_car_destination/model_blending.py" />
-        <option value="$PROJECT_DIR$/src/main/java/predictor/XGBPredict.java" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb-rnn-attention/config.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb-rnn-attention/utils.py" />
-        <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb-rnn-attention/imdb_bi_rnn_attention.py" />
         <option value="$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/utils.py" />
         <option value="$PROJECT_DIR$/src/main/python/main.py" />
         <option value="$PROJECT_DIR$/src/main/python/ml/main.py" />
@@ -236,6 +192,32 @@
         <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/unet.py" />
         <option value="$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/train.py" />
         <option value="$PROJECT_DIR$/src/main/python/dl/cnn/carvana_image_masking_challenge/unet_models.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/torch_gan/self_attention_gan_tutorial.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/model/resnet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/renet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/prepare.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/changeIndex.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/densenet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/resnet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/random_erasing.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/densenet.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lesson1/note.md" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lesson1/prepare.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/prepare.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/changeIndex.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/random_erasing.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/train_baseline.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/model.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/train_baseline.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/MESAdvClc.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/resizeImage.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/download.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/Update.md" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/main.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/utils.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/ops.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/model.py" />
+        <option value="$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py" />
       </list>
     </option>
   </component>
@@ -298,155 +280,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-to-rank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hotel_image_super_resolution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -458,12 +296,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\learning-to-rank" />
-      <recent name="E:\learning-to-rank\src\main\python\dl" />
-      <recent name="E:\learning-to-rank\data" />
-      <recent name="E:\learning-to-rank\src\main\python\ml\dc_car_destination" />
-      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\hotel_image_classification" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learning-to-rank\src\main\python\ml\wilson" />
+      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\imagenet\alexnet_tf" />
+      <recent name="E:\learning-to-rank\models" />
+      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\object_detection\mask_rcnn\mask_rcnn_webcam" />
+      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\imagenet\resnet_keras" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="hotelrank" />
@@ -472,12 +310,12 @@
       <recent name="spark.preprocessing" />
       <recent name="spark.metrics" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\learning-to-rank\src\main\python\ml\wilson" />
-      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\imagenet\alexnet_tf" />
-      <recent name="E:\learning-to-rank\models" />
-      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\object_detection\mask_rcnn\mask_rcnn_webcam" />
-      <recent name="E:\learning-to-rank\src\main\python\dl\cnn\imagenet\resnet_keras" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\learning-to-rank\src\main\python\dl\gan\Person-reid-GAN-pytorch\lession2" />
+      <recent name="E:\learning-to-rank\src\main\python\dl\gan\Person-reid-GAN-pytorch\lesson1" />
+      <recent name="E:\learning-to-rank\src\main\python\dl\gan\Person-reid-GAN-pytorch" />
+      <recent name="E:\learning-to-rank" />
+      <recent name="E:\learning-to-rank\src\main\python\dl" />
     </key>
   </component>
   <component name="RunManager" selected="Python.bayes_baseline">
@@ -1069,14 +907,14 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.49755502" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.502445" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.502445" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47066015" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40761477" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47032475" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50839865" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3493841" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21088019" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1088,7 +926,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1099,17 +937,17 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.502445" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.502445" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40761477" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47066015" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47032475" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50839865" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3493841" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21116506" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1148,7 +986,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1157,317 +995,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/util/Row2Rows.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/bidirectional_rnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/bilstm_sequence_labeling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3575">
-          <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/simple_rnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/rnn/imdb_rnn_attention/imdb_bi_rnn_attention.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="310" column="4" selection-start-line="310" selection-start-column="4" selection-end-line="310" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/contrib/slim/python/slim/nets/resnet_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train.txt" />
-    <entry file="file://$PROJECT_DIR$/data/test.txt" />
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/conv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1437">
-          <caret line="288" column="8" selection-start-line="288" selection-start-column="8" selection-end-line="288" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.model" />
-    <entry file="file://$PROJECT_DIR$/src/main/python/util/xgb/tree_plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/contrib/slim/python/slim/nets/resnet_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6125">
-          <caret line="257" column="79" selection-start-line="257" selection-start-column="79" selection-end-line="257" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/transforms/transforms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2713">
-          <caret line="433" column="7" selection-start-line="433" selection-start-column="7" selection-end-line="433" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/result3.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/result1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/ml/dc_car_destination/bayes_baseline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/ml/dc_car_destination/first_stage_bayes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="1347" column="0" selection-start-line="1347" selection-start-column="0" selection-end-line="1347" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/densenet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="45" column="15" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/dot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/graph_visualization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/util/torch_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/resnet.py" />
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/serialization/read_lua_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="600" column="4" selection-start-line="600" selection-start-column="4" selection-end-line="600" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/serialization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="240" column="53" selection-start-line="240" selection-start-column="53" selection-end-line="240" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/data/dataloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1263">
-          <caret line="399" column="8" selection-start-line="399" selection-start-column="8" selection-end-line="399" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/data/dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/scipy/sparse/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="351" column="8" selection-start-line="351" selection-start-column="8" selection-end-line="351" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3425">
-          <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/resnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/resnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="199" column="74" selection-start-line="199" selection-start-column="74" selection-end-line="199" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/util/pytorch/torch_tensorboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2550">
-          <caret line="105" column="51" selection-start-line="105" selection-start-column="51" selection-end-line="105" selection-end-column="51" />
-          <folding>
-            <element signature="e#425#437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/unet.py" />
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/activation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10475">
-          <caret line="424" column="57" selection-start-line="424" selection-start-column="17" selection-end-line="424" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/keras/applications/resnet50.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5700">
-          <caret line="251" column="18" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/classset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2325">
-          <caret line="99" column="28" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
-          <folding>
-            <element signature="e#95#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/autograd/variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/modules/pooling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/model_zoo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2511">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/vgg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2325">
-          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Anaconda3/Lib/site-packages/torch/nn/functional.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -1479,9 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="e#167#187#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1492,13 +1016,391 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/model/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/model/resnet.py" />
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/model_zoo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="97" column="59" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IdeaIC2016.2/system/python_stubs/-791851423/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="536" column="4" selection-start-line="536" selection-start-column="4" selection-end-line="536" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1704">
+          <caret line="363" column="50" selection-start-line="363" selection-start-column="50" selection-end-line="363" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/densenet.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/densenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-936">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/densenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="80" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/changeIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/README.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lesson1/note.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="50">
+            <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lesson1/prepare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/prepare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/random_erasing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/train_baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="53" column="15" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/datasets/folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="141" column="4" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/random_erasing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1775">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_super_resolution/unet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="100">
           <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/torch_gan/self_attention_gan_tutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/hotel_image_classification/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/lession2/changeIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="110" column="7" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/torchvision/models/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="112" column="32" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/README.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/average.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/DCGAN.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/dcgan.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/prepare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1175">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/tensorflow/core/protobuf/config_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="1154" column="0" selection-start-line="1154" selection-start-column="0" selection-end-line="1154" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/MESAdvClc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/Update.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="100">
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5000">
+          <caret line="207" column="4" selection-start-line="207" selection-start-column="4" selection-end-line="207" selection-end-column="4" />
           <folding>
-            <element signature="e#95#107#0" expanded="true" />
+            <element signature="e#193#204#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/resizeImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/numpy/ma/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="789" column="0" selection-start-line="789" selection-start-column="0" selection-end-line="789" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/ml/wilson/wilson_rating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/spark/util/Row2Rows.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#99#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/DCGAN-tensorflow/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2650">
+          <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+          <folding>
+            <element signature="e#99#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/torch_load_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/gan/Person-reid-GAN-pytorch/train_baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2900">
+          <caret line="116" column="26" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/dl/cnn/imagenet/lenet_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="216" column="36" selection-start-line="216" selection-start-column="36" selection-end-line="216" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
