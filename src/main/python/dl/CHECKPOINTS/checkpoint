@@ -1,0 +1,5 @@
+model_checkpoint_path: "E:\\learning-to-rank\\src\\main\\python\\dl\\CHECKPOINTS\\wide.tfl-2000"
+all_model_checkpoint_paths: "E:\\learning-to-rank\\src\\main\\python\\dl\\CHECKPOINTS\\wide.tfl-500"
+all_model_checkpoint_paths: "E:\\learning-to-rank\\src\\main\\python\\dl\\CHECKPOINTS\\wide.tfl-1000"
+all_model_checkpoint_paths: "E:\\learning-to-rank\\src\\main\\python\\dl\\CHECKPOINTS\\wide.tfl-1500"
+all_model_checkpoint_paths: "E:\\learning-to-rank\\src\\main\\python\\dl\\CHECKPOINTS\\wide.tfl-2000"
